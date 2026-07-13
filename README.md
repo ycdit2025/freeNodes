@@ -2,4 +2,8 @@
 
 > 免费节点,不定时更新,如果发现节点失效,欢迎反馈.另外,推荐几个便宜又稳定的机场=>[2026年最新便宜好用机场推荐](https://www.chaidongqiang.com/)
 
+## 免费代理节点01
 
+vless协议,下载clash party或下载flclash等客户端后直接扫码使用即可.
+
+<img src="imgs/free-node-01.png">
