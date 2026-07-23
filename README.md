@@ -6,10 +6,10 @@
 
 此节点为vless协议,下载clash party或下载flclash等客户端后直接扫码使用即可.没有客户端的[点此下载](https://www.chaidongqiang.com/)
 
-<img src="imgs/free-node01-722.png">
+<img src="imgs/free-01-0723.png">
 
 ## 免费代理节点02
 
 此节点为vless协议,下载clash party或下载flclash等客户端后直接扫码使用即可.没有客户端的[点此下载](https://www.chaidongqiang.com/)
 
-<img src="imgs/free-node02-73.png">
+<img src="imgs/free-02-0723.png">
