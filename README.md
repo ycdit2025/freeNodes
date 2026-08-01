@@ -4,9 +4,9 @@
 
 ## 免费代理节点01
 
-此节点为vless协议,下载clash party或下载flclash等客户端后直接扫码使用即可.没有客户端的[点此下载](https://www.chaidongqiang.com/)
+此节点为最新免费vless协议节点,下载clash party或下载flclash等客户端后直接扫码使用即可.没有客户端的[点此下载](https://www.chaidongqiang.com/)
 
-<img src="imgs/free-01-0723.png">
+<img src="imgs/free01.png">
 
 ## 免费代理节点02
 
