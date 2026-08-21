@@ -34,3 +34,9 @@
 此节点为免费vless节点,下载clash party或flclash客户端扫码使用即可.没有客户端的[点此下载](https://www.chaidongqiang.com/)
 
 <img src="imgs/free-5.png">
+
+## 免费代理节点06
+
+此节点为免费vless节点,请下载支持vless协议的客户端后进行使用.没有客户端的[点此下载](https://www.chaidongqiang.com/)
+
+<img src="imgs/free-06.png">
